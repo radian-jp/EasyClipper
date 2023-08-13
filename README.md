@@ -6,12 +6,11 @@
 
 ## 動作環境
 - Windows 10以上
-- .NET Desktop Runtime 6.0
+- [.NET Desktop Runtime 6.0](https://dotnet.microsoft.com/ja-jp/download/dotnet/6.0)
 
 
 ## 起動方法
-(1) .NET Desktop Runtime 6.0 がインストールされていない場合は、インストールを行ってください。
-    https://dotnet.microsoft.com/ja-jp/download/dotnet/6.0
+(1) [.NET Desktop Runtime 6.0](https://dotnet.microsoft.com/ja-jp/download/dotnet/6.0) がインストールされていない場合は、インストールを行ってください。
 
 (2) 適当なフォルダにEasyClipperのアーカイブファイルを解凍し、EasyClipper.exeを起動してください。
 
