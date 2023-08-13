@@ -36,6 +36,6 @@ EasyClipper.exeを解凍したフォルダを削除してください。
 （一般的なフルパスは、"C:\Users\ユーザー名\Documents\RadianTools\EasyClipper\EasyClipper.config.json" となります）
 
 ## ライセンス情報
-EasyClipperのライセンスについては、[LISENCE](https://raw.githubusercontent.com/radian-jp/EasyClipper/main/LICENSE) を参照してください。
+EasyClipperのライセンスについては、[LICENSE](/LICENSE) を参照してください。
 
-EasyClipperで使用されているライブラリのライセンスについては、[third-party-notices.txt](https://raw.githubusercontent.com/radian-jp/EasyClipper/main/third-party-notices.txt) を参照してください。
+EasyClipperで使用されているライブラリのライセンスについては、[third-party-notices.txt](/third-party-notices.txt) を参照してください。
